@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Grand Luxury Christmas Tree",
+  "description": "A high-end, interactive 3D Christmas tree experience with particle effects, bloom post-processing, and photo memory uploads.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
